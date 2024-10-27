@@ -57,15 +57,21 @@ Here are a few of the projects I've been working on:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats Overview
 
-![Shahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahad&show_icons=true&theme=radical)
+![Shahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahad&layout=compact&theme=radical)
+
+### 🔥 Contribution Highlights
+- ![Commits](https://img.shields.io/badge/Total%20Commits-300+-blue?style=for-the-badge)
+- ![Projects](https://img.shields.io/badge/Projects-15+-brightgreen?style=for-the-badge)
+- ![Repositories](https://img.shields.io/badge/Repositories-25-orange?style=for-the-badge)
 
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/shahad-k-baalkhashir-822629209/))
-- **Email**: [Your LinkedIn Profile]([shahadhatemba@gmail.com]))
+- **LinkedIn**: [Shahad K Baalkhashir](https://www.linkedin.com/in/shahad-k-baalkhashir-822629209/)
+- **Email**: [shahadhatemba@gmail.com](mailto:shahadhatemba@gmail.com)
 ---
 
 ## 🤝 Let's Collaborate!
