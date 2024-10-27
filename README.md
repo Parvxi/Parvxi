@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here's an enhanced version with additional sections and some reformatting for a polished, engaging presentation:
-
----
-
 # 👋 Hello, I'm Shahad!
 
 I'm a **Computer Scientist** with a keen focus on **Data Science** and **Machine Learning**. Driven by data, I strive to deliver impactful, insight-driven solutions and build innovative models that bring tangible value to projects. 
