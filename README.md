@@ -32,8 +32,8 @@ I'm a **Computer Scientist** with a keen focus on **Data Science** and **Machine
 
 ## 📊 GitHub Stats Overview
 
-![Shahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahad&show_icons=true&theme=radical) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahad&layout=compact&theme=radical)
+![Shahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvxi&show_icons=true&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvxi&layout=compact&theme=radical)
 
 ### 🔥 Contribution Highlights
 
@@ -45,9 +45,9 @@ I'm a **Computer Scientist** with a keen focus on **Data Science** and **Machine
 
 ## 🏆 Trophies and Streaks
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shahad&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=parvxi&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahad&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parvxi&theme=radical)
 
 ---
 
